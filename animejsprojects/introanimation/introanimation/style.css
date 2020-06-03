@@ -12,7 +12,7 @@ body{
 	background-color: #18212d;
 }
 .box{
-	width: 1050px;
+	width: 1051px;
 	height: 370px;
 	position: fixed;
 
@@ -28,14 +28,14 @@ body{
 #namebox{
 	z-index: 2;
 	position: fixed;
-	top: 37vh;
+	top: 39vh;
 	height: 370px;
 	display: flex;
 	align-items: center;
 }
 
 #button{
-	z-index: 6;
+	z-index: 3;
 }
 
 .replay{
